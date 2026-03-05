@@ -69,7 +69,6 @@ This project was built for:
 
 * Practicing **React + TypeScript**
 * Learning **modern UI layout techniques**
-* Creating a **portfolio-worthy frontend project**
 
 ---
 
